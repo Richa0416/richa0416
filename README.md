@@ -72,7 +72,7 @@ I'm a **3rd-year Computer Science student** with a sharp focus on **Data Structu
 
 | Platform | Problems Solved | Status |
 |----------|----------------|--------|
-| 🔴 LeetCode |  | [https://leetcode.com/u/richaaabinay03/](#) |
+| 🔴 LeetCode |  [https://leetcode.com/u/richaaabinay03/](#) |
 | 🟠 GeeksforGeeks  | https://www.geeksforgeeks.org/profile/richaaabvqfc(#) |
 | **Total** | **180+** | 🔥 And counting |
 
